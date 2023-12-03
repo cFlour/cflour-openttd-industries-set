@@ -1,0 +1,17 @@
+abbreviation: PX
+available: false
+classes: 1
+colour: 1
+id: 0
+label: PASS
+longName: passengers
+name: Passengers
+penaltyLength: 146
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1
