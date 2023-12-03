@@ -1,0 +1,17 @@
+abbreviation: ML
+available: false
+classes: 2
+colour: 1
+id: 1
+label: MAIL
+longName: mail
+name: Mail
+penaltyLength: 158
+penaltyLowerBound: 2
+price: 6168
+sprite:
+  filename: cargoes/mail.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 0
