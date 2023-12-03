@@ -1,4 +1,5 @@
-# Blank TrueGRF template (Industry)
+# My OpenTTD industries Set
 
-This is a completely blank [TrueGRF](https://truegrf.truebrain.nl/) project to design your industry GRFs with.
-TrueGRF makes creating NewGRFs easy.
+Made from [TrueGRF](https://truegrf.truebrain.nl/).
+
+Currently has the cargoes of Passengers and Mail, will add more soon.
