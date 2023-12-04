@@ -1,14 +1,14 @@
 abbreviation: ML
 available: false
 classes: 2
-colour: 1
+colour: 255
 id: 1
 label: MAIL
 longName: mail
 name: Mail
 penaltyLength: 158
 penaltyLowerBound: 2
-price: 6168
+price: 187099
 sprite:
   filename: cargoes/mail.png
   left: 0
