@@ -1,0 +1,17 @@
+abbreviation: GL
+available: false
+classes: 8
+colour: 1
+id: 10
+label: GOLD
+longName: gold
+name: Gold
+penaltyLength: 40
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/gold.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1

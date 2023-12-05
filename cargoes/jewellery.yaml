@@ -1,0 +1,17 @@
+abbreviation: JW
+available: false
+classes: 8
+colour: 1
+id: 8
+label: JEWL
+longName: jewellery
+name: Jewellery
+penaltyLength: 40
+penaltyLowerBound: 0
+price: 308775
+sprite:
+  filename: cargoes/jewellery.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1

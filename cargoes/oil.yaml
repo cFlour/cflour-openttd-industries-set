@@ -1,0 +1,17 @@
+abbreviation: OL
+available: false
+classes: 64
+colour: 1
+id: 2
+label: OIL_
+longName: oil
+name: Oil
+penaltyLength: 126
+penaltyLowerBound: 20
+price: 182452
+sprite:
+  filename: cargoes/oil.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

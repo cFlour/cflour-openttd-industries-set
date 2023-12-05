@@ -1,0 +1,17 @@
+abbreviation: PA
+available: false
+classes: 1
+colour: 1
+id: 12
+label: PAIT
+longName: patients
+name: Patients
+penaltyLength: 48
+penaltyLowerBound: 0
+price: 168430
+sprite:
+  filename: cargoes/patients.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1

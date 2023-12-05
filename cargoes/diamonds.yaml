@@ -1,0 +1,17 @@
+abbreviation: DI
+available: false
+classes: 8
+colour: 1
+id: 9
+label: DIAM
+longName: diamonds
+name: Diamonds
+penaltyLength: 40
+penaltyLowerBound: 0
+price: 328595
+sprite:
+  filename: cargoes/diamonds.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1
