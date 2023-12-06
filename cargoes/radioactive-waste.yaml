@@ -1,16 +1,16 @@
-abbreviation: UR
+abbreviation: RW
 available: false
 classes: 4368
 colour: 1
-id: 14
-label: URAN
-longName: uranium
-name: Uranium
+id: 15
+label: RADW
+longName: radioactive waste
+name: Radioactive Waste
 penaltyLength: 40
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/uranium.png
+  filename: cargoes/radioactive-waste.png
   left: 0
   top: 0
 unitName: Crates
