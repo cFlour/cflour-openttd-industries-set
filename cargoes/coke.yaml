@@ -1,0 +1,17 @@
+abbreviation: CO
+available: false
+classes: 4112
+colour: 1
+id: 17
+label: COKE
+longName: coke
+name: Coke
+penaltyLength: 32
+penaltyLowerBound: 120
+price: 4112
+sprite:
+  filename: cargoes/coke.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
