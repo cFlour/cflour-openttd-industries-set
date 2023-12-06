@@ -1,0 +1,17 @@
+abbreviation: TO
+available: false
+classes: 32
+colour: 1
+id: 19
+label: TOOL
+longName: tools
+name: Tools
+penaltyLength: 40
+penaltyLowerBound: 40
+price: 197173
+sprite:
+  filename: cargoes/tools.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1
