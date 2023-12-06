@@ -1,0 +1,17 @@
+abbreviation: FR
+available: false
+classes: 32
+colour: 1
+id: 16
+label: FURN
+longName: furniture
+name: Furniture
+penaltyLength: 72
+penaltyLowerBound: 80
+price: 218762
+sprite:
+  filename: cargoes/furniture.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 4

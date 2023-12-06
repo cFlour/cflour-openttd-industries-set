@@ -8,7 +8,7 @@ longName: radioactive waste
 name: Radioactive Waste
 penaltyLength: 40
 penaltyLowerBound: 0
-price: 4112
+price: 243270
 sprite:
   filename: cargoes/radioactive-waste.png
   left: 0
