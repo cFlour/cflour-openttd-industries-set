@@ -1,0 +1,17 @@
+abbreviation: SP
+available: false
+classes: 6160
+colour: 1
+id: 20
+label: SPIC
+longName: spices
+name: Spices
+penaltyLength: 40
+penaltyLowerBound: 8
+price: 241872
+sprite:
+  filename: cargoes/spices.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 1
