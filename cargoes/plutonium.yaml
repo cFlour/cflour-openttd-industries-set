@@ -1,0 +1,17 @@
+abbreviation: Pt
+available: false
+classes: 272
+colour: 1
+id: 13
+label: PLUT
+longName: plutonium
+name: Plutonium
+penaltyLength: 40
+penaltyLowerBound: 0
+price: 251206
+sprite:
+  filename: cargoes/plutonium.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 2
