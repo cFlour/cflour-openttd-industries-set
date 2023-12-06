@@ -1,0 +1,17 @@
+abbreviation: CL
+available: false
+classes: 16
+colour: 1
+id: 18
+label: COAL
+longName: coal
+name: Coal
+penaltyLength: 72
+penaltyLowerBound: 80
+price: 205809
+sprite:
+  filename: cargoes/coal.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

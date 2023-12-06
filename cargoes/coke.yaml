@@ -8,7 +8,7 @@ longName: coke
 name: Coke
 penaltyLength: 32
 penaltyLowerBound: 120
-price: 4112
+price: 205809
 sprite:
   filename: cargoes/coke.png
   left: 0
