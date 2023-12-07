@@ -9,9 +9,6 @@ name: Mail
 penaltyLength: 158
 penaltyLowerBound: 2
 price: 187099
-sprite:
-  filename: cargoes/mail.png
-  left: 0
-  top: 0
+sprite: 4299
 unitName: Items
 weight: 0
