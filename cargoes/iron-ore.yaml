@@ -9,9 +9,6 @@ name: Iron Ore
 penaltyLength: 90
 penaltyLowerBound: 30
 price: 210538
-sprite:
-  filename: cargoes/iron-ore.png
-  left: 0
-  top: 0
+sprite: 4305
 unitName: Tonnes
 weight: 16
