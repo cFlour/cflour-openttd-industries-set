@@ -8,10 +8,7 @@ longName: gold
 name: Gold
 penaltyLength: 40
 penaltyLowerBound: 0
-price: 4112
-sprite:
-  filename: cargoes/gold.png
-  left: 0
-  top: 0
+price: 309126
+sprite: 4307
 unitName: Bags
 weight: 1
