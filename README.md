@@ -2,4 +2,4 @@
 
 Made from [TrueGRF](https://truegrf.truebrain.nl/).
 
-Currently has the cargoes of Passengers and Mail, will add more soon.
+Have added all the cargoes, need to add the industries now. Some images have no use, it's just that GitHub isn't allowing me to delete them.
