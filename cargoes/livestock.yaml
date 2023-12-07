@@ -9,9 +9,6 @@ name: Livestock
 penaltyLength: 44
 penaltyLowerBound: 4
 price: 177723
-sprite:
-  filename: cargoes/livestock.png
-  left: 0
-  top: 0
+sprite: 4301
 unitName: Items
 weight: 2
