@@ -8,7 +8,7 @@ longName: medicines
 name: Medicines
 penaltyLength: 50
 penaltyLowerBound: 0
-price: 4112
+price: 297014
 sprite:
   filename: cargoes/medicines.png
   left: 0
