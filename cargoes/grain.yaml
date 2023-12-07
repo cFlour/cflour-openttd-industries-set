@@ -9,9 +9,6 @@ name: Grain
 penaltyLength: 46
 penaltyLowerBound: 2
 price: 196474
-sprite:
-  filename: cargoes/grain.png
-  left: 0
-  top: 0
+sprite: 4303
 unitName: Tonnes
 weight: 16
