@@ -9,9 +9,6 @@ name: Plastic
 penaltyLength: 80
 penaltyLowerBound: 80
 price: 184262
-sprite:
-  filename: cargoes/plastic.png
-  left: 0
-  top: 0
+sprite: 4322
 unitName: Litres
 weight: 18
