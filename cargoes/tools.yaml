@@ -9,9 +9,6 @@ name: Tools
 penaltyLength: 40
 penaltyLowerBound: 40
 price: 197173
-sprite:
-  filename: cargoes/tools.png
-  left: 0
-  top: 0
+sprite: 4317
 unitName: Items
 weight: 1
