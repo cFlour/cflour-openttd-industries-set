@@ -1,0 +1,31 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- PASS
+cargoProduction:
+- PASS
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Tourist Plaza
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/tourist-plaza/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/tourist-plaza/1.png
+      left: -31
+      top: 0
+type: secondary
