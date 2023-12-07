@@ -9,9 +9,6 @@ name: Coal
 penaltyLength: 72
 penaltyLowerBound: 80
 price: 205809
-sprite:
-  filename: cargoes/coal.png
-  left: 0
-  top: 0
+sprite: 4298
 unitName: Tonnes
 weight: 16
