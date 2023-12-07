@@ -9,9 +9,6 @@ name: Food
 penaltyLength: 40
 penaltyLowerBound: 0
 price: 233894
-sprite:
-  filename: cargoes/food.png
-  left: 0
-  top: 0
+sprite: 4312
 unitName: Crates
 weight: 1
