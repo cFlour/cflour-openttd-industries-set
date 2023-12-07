@@ -9,9 +9,6 @@ name: Passengers
 penaltyLength: 136
 penaltyLowerBound: 10
 price: 130969
-sprite:
-  filename: cargoes/passengers.png
-  left: 0
-  top: 0
+sprite: 4297
 unitName: Passengers
 weight: 1
