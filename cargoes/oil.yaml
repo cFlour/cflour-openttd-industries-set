@@ -9,9 +9,6 @@ name: Oil
 penaltyLength: 126
 penaltyLowerBound: 20
 price: 182452
-sprite:
-  filename: cargoes/oil.png
-  left: 0
-  top: 0
+sprite: 4300
 unitName: Litres
 weight: 16
