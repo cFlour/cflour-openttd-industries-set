@@ -9,9 +9,6 @@ name: Jewellery
 penaltyLength: 40
 penaltyLowerBound: 0
 price: 308775
-sprite:
-  filename: cargoes/jewellery.png
-  left: 0
-  top: 0
+sprite: 4307
 unitName: Bags
 weight: 1
