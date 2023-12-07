@@ -1,0 +1,17 @@
+abbreviation: FP
+available: false
+classes: 4112
+colour: 1
+id: 22
+label: FORP
+longName: forest produce
+name: Forest Produce
+penaltyLength: 60
+penaltyLowerBound: 12
+price: 233894
+sprite:
+  filename: cargoes/forest-produce.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
