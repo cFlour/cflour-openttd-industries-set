@@ -9,9 +9,6 @@ name: Patients
 penaltyLength: 48
 penaltyLowerBound: 0
 price: 168430
-sprite:
-  filename: cargoes/patients.png
-  left: 0
-  top: 0
+sprite: 4297
 unitName: Passengers
 weight: 1
