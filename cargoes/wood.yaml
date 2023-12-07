@@ -9,9 +9,6 @@ name: Wood
 penaltyLength: 134
 penaltyLowerBound: 12
 price: 205809
-sprite:
-  filename: cargoes/wood.png
-  left: 0
-  top: 0
+sprite: 4304
 unitName: Tonnes
 weight: 16
