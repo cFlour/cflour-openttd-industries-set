@@ -8,6 +8,14 @@ fundCostMultiplier: 100
 id: 1
 layout:
 - - - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
 name: Uranium Mine
 placement: anywhere
 probabilityInGame: 10
