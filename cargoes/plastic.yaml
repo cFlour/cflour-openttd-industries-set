@@ -1,0 +1,17 @@
+abbreviation: PC
+available: false
+classes: 64
+colour: 1
+id: 23
+label: PLAS
+longName: plastic
+name: Plastic
+penaltyLength: 80
+penaltyLowerBound: 80
+price: 184262
+sprite:
+  filename: cargoes/plastic.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 18
